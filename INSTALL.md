@@ -1,4 +1,12 @@
-## Compilação:
+## Requisitos:
+- Java
+
+## Compilar:
 ```bash
-javac ServidorTCPBasico.java
+javac NomeDoArquivo.java
+```
+
+## Executar: 
+```bash
+java NomeDoArquivo
 ```
